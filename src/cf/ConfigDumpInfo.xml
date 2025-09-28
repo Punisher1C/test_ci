@@ -976,7 +976,7 @@
 		<Metadata name="CommonPicture.ШтампЭлектроннойПодписи.Picture" id="e5033559-9d58-4b9b-a739-40c419e82192.0" configVersion="ba8cfd467d6edb4582a897ba72b9049200000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления" id="88b879b7-1bb3-4478-b569-35bdb5c56939" configVersion="8201afce52e799418f80773d3f9638df00000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="25a804df9889d047869e9533b5a8a0cc00000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="749164e2f61abe42876e103d4eec31d900000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="dd184d2f626cc340a9f4bc3f1f31430400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ExternalConnectionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.5" configVersion="c79754e9d050364da1d6f70feb9943b500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ManagedApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.6" configVersion="04235378280fee4bbeb5ecb863a5267400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.OrdinaryApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.0" configVersion="2d6bff1bd8944a45966b0d49740830f500000000"/>
@@ -1257,6 +1257,10 @@
 		<Metadata name="DefinedType.Подразделение" id="28a25822-2306-409a-a7c8-6f7e42bf25e8" configVersion="6caafef135f09640b530817c2307bf0200000000"/>
 		<Metadata name="DefinedType.Пользователь" id="a72517c3-8c91-4e40-81ac-83c762789e87" configVersion="ba3883453b9fb844bae2e725e3ea4cbf00000000"/>
 		<Metadata name="DefinedType.ФизическоеЛицо" id="46b0a5b3-1fa7-44ff-a941-c6de47d36e77" configVersion="97a2c2430238ef4285fe92d1fc8b6b1800000000"/>
+		<Metadata name="Document.Документ1" id="b8fceda7-2f87-4504-a326-f031a966587e" configVersion="4b9553b14a96bf408274a03eb4ed5a1a00000000">
+			<Metadata name="Document.Документ1.Attribute.Реквизит1" id="79017e2d-fbaa-417f-89b0-422b3837c68b"/>
+			<Metadata name="Document.Документ1.Attribute.Реквизит2" id="893624c5-a8b5-4ada-87d4-8ffd566e34e3"/>
+		</Metadata>
 		<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок" id="3fadaeb7-2c41-42a4-bfa8-c585602b1028" configVersion="e87102c11b737d42b6535d605d1af89200000000">
 			<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок.EnumValue.РежимОтладки" id="083c709b-ed8c-47e4-a190-421e14259e73"/>
 			<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок.EnumValue.Используется" id="171a0dfc-032e-4eaf-81a2-e5e0dfde8d56"/>
