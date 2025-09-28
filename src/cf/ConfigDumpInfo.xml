@@ -219,6 +219,9 @@
 		<Metadata name="Catalog.Пользователи.Help" id="579baaa4-6493-4d99-8744-6399757295c7.1" configVersion="f29d10a840f6e041b545f901ab390ed300000000"/>
 		<Metadata name="Catalog.Пользователи.ManagerModule" id="579baaa4-6493-4d99-8744-6399757295c7.3" configVersion="34e59324525f264e90dee6d5bab8d28c00000000"/>
 		<Metadata name="Catalog.Пользователи.ObjectModule" id="579baaa4-6493-4d99-8744-6399757295c7.0" configVersion="20d715e0176b1f4997f59822174a5e0b00000000"/>
+		<Metadata name="Catalog.Справочник1" id="a873ab60-bda8-4234-8669-d3598287245b" configVersion="9a8db9b71bfd77408d2070a89438773e00000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="d9819305-9ae1-468b-a0d0-bd93f6a2554c"/>
+		</Metadata>
 		<Metadata name="CommandGroup.Информация" id="31ee6430-b65d-42fa-859b-c4f1c40686ae" configVersion="c719a61aca99fc4bba990ad89791890200000000"/>
 		<Metadata name="CommandGroup.Органайзер" id="c59e11f3-6bcb-404a-9d76-1416c12be354" configVersion="4f58f0616c7ad74199eacb31d0777e3100000000"/>
 		<Metadata name="CommonAttribute.ОтредактированныеПредопределенныеРеквизиты" id="141c7b66-d689-4c8e-ace8-b8e1d8c7fbaa" configVersion="00da79cb9fbe2a489830a54b38e84e3f00000000"/>
@@ -976,7 +979,7 @@
 		<Metadata name="CommonPicture.ШтампЭлектроннойПодписи.Picture" id="e5033559-9d58-4b9b-a739-40c419e82192.0" configVersion="ba8cfd467d6edb4582a897ba72b9049200000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления" id="88b879b7-1bb3-4478-b569-35bdb5c56939" configVersion="8201afce52e799418f80773d3f9638df00000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="25a804df9889d047869e9533b5a8a0cc00000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="dd184d2f626cc340a9f4bc3f1f31430400000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="e7f2fa1081cf504e8b1f074d485a5b7f00000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ExternalConnectionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.5" configVersion="c79754e9d050364da1d6f70feb9943b500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ManagedApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.6" configVersion="04235378280fee4bbeb5ecb863a5267400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.OrdinaryApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.0" configVersion="2d6bff1bd8944a45966b0d49740830f500000000"/>
