@@ -979,7 +979,7 @@
 		<Metadata name="CommonPicture.ШтампЭлектроннойПодписи.Picture" id="e5033559-9d58-4b9b-a739-40c419e82192.0" configVersion="ba8cfd467d6edb4582a897ba72b9049200000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления" id="88b879b7-1bb3-4478-b569-35bdb5c56939" configVersion="8201afce52e799418f80773d3f9638df00000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="25a804df9889d047869e9533b5a8a0cc00000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="e7f2fa1081cf504e8b1f074d485a5b7f00000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="7d90d1f7d0fe7f4f9eede6007147938c00000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ExternalConnectionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.5" configVersion="c79754e9d050364da1d6f70feb9943b500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ManagedApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.6" configVersion="04235378280fee4bbeb5ecb863a5267400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.OrdinaryApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.0" configVersion="2d6bff1bd8944a45966b0d49740830f500000000"/>
@@ -1263,6 +1263,9 @@
 		<Metadata name="Document.Документ1" id="b8fceda7-2f87-4504-a326-f031a966587e" configVersion="4b9553b14a96bf408274a03eb4ed5a1a00000000">
 			<Metadata name="Document.Документ1.Attribute.Реквизит1" id="79017e2d-fbaa-417f-89b0-422b3837c68b"/>
 			<Metadata name="Document.Документ1.Attribute.Реквизит2" id="893624c5-a8b5-4ada-87d4-8ffd566e34e3"/>
+		</Metadata>
+		<Metadata name="Document.Документ2" id="dc29f473-8b73-4f00-9d94-5cb22041fa43" configVersion="441ad8deb1bf134fac9371030a92a9af00000000">
+			<Metadata name="Document.Документ2.Attribute.Реквизит1" id="1bc7f4e4-6901-47c8-bc33-ef95ac594e1b"/>
 		</Metadata>
 		<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок" id="3fadaeb7-2c41-42a4-bfa8-c585602b1028" configVersion="e87102c11b737d42b6535d605d1af89200000000">
 			<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок.EnumValue.РежимОтладки" id="083c709b-ed8c-47e4-a190-421e14259e73"/>
