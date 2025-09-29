@@ -979,11 +979,11 @@
 		<Metadata name="CommonPicture.ШтампЭлектроннойПодписи.Picture" id="e5033559-9d58-4b9b-a739-40c419e82192.0" configVersion="ba8cfd467d6edb4582a897ba72b9049200000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления" id="88b879b7-1bb3-4478-b569-35bdb5c56939" configVersion="8201afce52e799418f80773d3f9638df00000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="25a804df9889d047869e9533b5a8a0cc00000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="7d90d1f7d0fe7f4f9eede6007147938c00000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="41457ccbf193324fb95fa1913f7b94c400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ExternalConnectionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.5" configVersion="c79754e9d050364da1d6f70feb9943b500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ManagedApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.6" configVersion="04235378280fee4bbeb5ecb863a5267400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.OrdinaryApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.0" configVersion="2d6bff1bd8944a45966b0d49740830f500000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача.ParentConfigurations" id="cd45e7f5-b218-45b9-b958-00d67abd2025.4" configVersion="bfd55f82d4e4e04b89d4111e6973ef2b00000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача.ParentConfigurations" id="cd45e7f5-b218-45b9-b958-00d67abd2025.4" configVersion="180109d48338b340a30e327f9b5cdace00000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.SessionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.7" configVersion="e3e4f5185f4fa046804f9fb661f98de300000000"/>
 		<Metadata name="Constant.АдресПубликацииИнформационнойБазыВИнтернете" id="16392cf6-dd83-4df0-a54b-6efc29778a89" configVersion="0d750e1b245a1b49b5cc2a39d2185ed500000000"/>
 		<Metadata name="Constant.АдресПубликацииИнформационнойБазыВЛокальнойСети" id="e693cdd0-8ead-4ba5-adec-86bab74ee7cd" configVersion="cba9c6a32388b3499cf8b6e06dee5dbe00000000"/>
