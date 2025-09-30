@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+				bat "chcp65001\n vrunner init-dev --v8version 8.3.27.1688 --dt G:\\OTUS\\Jenkins\\1C_test\\template\\Test.dt --db-user Test --src F:\\OTUS\\jenCI\\src\\cf --ibconnection /F F:\\OTUS\\jenCI"
             }
         }
         stage('Test') {
