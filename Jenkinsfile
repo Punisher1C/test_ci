@@ -30,8 +30,10 @@ pipeline {
 			allure includeProperties: false, jdk: '', results: [[path: 'ut/syntax-check/allure']]
             junit stdioRetention: 'ALL', testResults: 'out/syntax-check/junit/*.xml'
         }
-        failure {
-            mail to: akim_rabota@mail.ru, subject: 'The Pipeline failed :('
+        failure {			
+			emailext body: 'The Pipeline failed :(',
+			subject: 'Jenkins',
+			to: 'akim_rabota@mail.ru'
         }
 	}
 }
