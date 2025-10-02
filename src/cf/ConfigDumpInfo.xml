@@ -979,7 +979,7 @@
 		<Metadata name="CommonPicture.ШтампЭлектроннойПодписи.Picture" id="e5033559-9d58-4b9b-a739-40c419e82192.0" configVersion="ba8cfd467d6edb4582a897ba72b9049200000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления" id="88b879b7-1bb3-4478-b569-35bdb5c56939" configVersion="8201afce52e799418f80773d3f9638df00000000"/>
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="25a804df9889d047869e9533b5a8a0cc00000000"/>
-		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="41457ccbf193324fb95fa1913f7b94c400000000"/>
+		<Metadata name="Configuration.НашаТестоваяЗадача" id="b61467be-0c69-45eb-a4fa-c64de36f72a5" configVersion="80d165299014e54b845c7880f8f2c17500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ExternalConnectionModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.5" configVersion="c79754e9d050364da1d6f70feb9943b500000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.ManagedApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.6" configVersion="04235378280fee4bbeb5ecb863a5267400000000"/>
 		<Metadata name="Configuration.НашаТестоваяЗадача.OrdinaryApplicationModule" id="cd45e7f5-b218-45b9-b958-00d67abd2025.0" configVersion="2d6bff1bd8944a45966b0d49740830f500000000"/>
@@ -1032,6 +1032,7 @@
 		<Metadata name="Constant.СтандартныеПодсистемыВАвтономномРежиме" id="a43fbfd8-6324-4192-a1a6-5628a7edb4d2" configVersion="56d5d2ccbe076642b53ea575eb2883d100000000"/>
 		<Metadata name="Constant.СтандартныеПодсистемыВАвтономномРежиме.ManagerModule" id="a43fbfd8-6324-4192-a1a6-5628a7edb4d2.1" configVersion="8671873ff47c45459e7505b9edd8be6200000000"/>
 		<Metadata name="Constant.СтандартныеПодсистемыВАвтономномРежиме.ValueManagerModule" id="a43fbfd8-6324-4192-a1a6-5628a7edb4d2.0" configVersion="dc8cd37d5cdabe4f914bd5b26232dfbb00000000"/>
+		<Metadata name="Constant.Тнст" id="72cf6344-b4d2-490a-a927-41decf47f394" configVersion="c10be6bd793cdf43a38ea39d49887b2600000000"/>
 		<Metadata name="Constant.УдалитьНастройкиВходаПользователей" id="766c9bee-b0fc-4a7f-b88e-cd8c4aad73b8" configVersion="93cb049aadda6d4c8f8bed7056dcf7a500000000"/>
 		<Metadata name="Constant.УдалитьНастройкиВходаПользователей.ManagerModule" id="766c9bee-b0fc-4a7f-b88e-cd8c4aad73b8.1" configVersion="b626d234c1443a4d869c03728b3842e500000000"/>
 		<Metadata name="Constant.УдалитьНастройкиВходаПользователей.ValueManagerModule" id="766c9bee-b0fc-4a7f-b88e-cd8c4aad73b8.0" configVersion="dedc09ae4e82e745a9aba3946177f01a00000000"/>

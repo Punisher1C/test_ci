@@ -750,6 +750,7 @@
 			<Constant>СостояниеОтправкиСерверныхОповещений</Constant>
 			<Constant>СтандартныеПодсистемыВАвтономномРежиме</Constant>
 			<Constant>УдалитьНастройкиВходаПользователей</Constant>
+			<Constant>Тнст</Constant>
 			<CommonForm>Вопрос</CommonForm>
 			<CommonForm>ВопросОбУстановкеРасширения1СПредприятия</CommonForm>
 			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
