@@ -33,5 +33,5 @@ pipeline {
         failure {
             mail to: akim_rabota@mail.ru, subject: 'The Pipeline failed :('
         }
-	
+	}
 }
