@@ -18,9 +18,9 @@ pipeline {
                 bat "chcp 65001\n vrunner syntax-check"
 			}
         }
-        stage('Deploy') {
+        stage('Smoke tests') {
             steps {
-                echo 'Deploying....'
+                bat "chcp 65001\n vrunner xunit"
             }
         }
     }

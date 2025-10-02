@@ -1,27 +1,23 @@
 {
     "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/develop/vanessa-runner-schema.json",
     "default": {
-        "--ibconnection": "/FF:/OTUS/TestBD",
-        "--db-user": "Test",
+        "--ibconnection": "/Fbuild/ib",
+        "--db-user": "",
         "--db-pwd": "",
         "--root": ".",
         "--workspace": ".",
-        "--v8version": "8.3.27.1688",
+        "--v8version": "8.3.16",
         "--locale": "ru",
         "--language": "ru",
         "--additional": "/DisplayAllFunctions /Lru  /iTaxi /TESTMANAGER",
         "--ordinaryapp": "-1"
-    },
-	"init-dev": {
-        "--dt": "G:/OTUS/Jenkins/1C_test/template/Test.dt",
-		"--src": "F:/OTUS/jenCI/src/cf"
     },
     "vanessa": {
         "--vanessasettings": "./tools/JSON/vanessaBddConf.json"
     },
     "xunit": {
         "--xddConfig": "./tools/JSON/vanessaTddConf.json",
-        "testsPath": "$addroot/tests/smoke",
+        "testsPath": "$addRoot/tests/smoke",
         "--reportsxunit": "ГенераторОтчетаJUnitXML{out/smoke/junit/junit.xml};ГенераторОтчетаAllureXMLВерсия2{out/smoke/allure/allure.xml}",
         "--xddExitCodePath": "./build/xddExitCodePath.txt"
     },
