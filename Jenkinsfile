@@ -13,10 +13,11 @@ pipeline {
 				bat "chcp 65001\n vrunner init-dev"
             }
         }
-        stage('Test') {
+        stage('Syntax check') {
             steps {
-                echo 'Testing..'
-            }
+                bat "chcp 65001\n vrunner syntax-check"
+            },
+			junit stdioRetention: 'ALL', testResults: ''
         }
         stage('Deploy') {
             steps {
@@ -24,4 +25,14 @@ pipeline {
             }
         }
     }
+	
+	post {
+        always {
+			allure includeProperties: false, jdk: '', results: [[path: 'ut/syntax-check/allure']]
+            junit stdioRetention: 'ALL', testResults: 'out/syntax-check/junit/*.xml'
+        }
+        failure {
+            mail to: akim_rabota@mail.ru, subject: 'The Pipeline failed :('
+        }
+	
 }
